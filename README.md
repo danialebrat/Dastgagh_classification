@@ -1,6 +1,6 @@
 # Dastgagh_Detector
 
-" Several Deep learning models are implemented to classify persian modal music into seven categories.<br/><br/>
+" Several Deep learning models are implemented to classify persian modal music into seven high correlated categories.<br/><br/>
 
 Model folder contains following models : <br/>
   1 _ Bidirectional LSTM + Bidirectional GRU (inspired by Autoencoder architecture)<br/>
