@@ -1,4 +1,4 @@
-# Dastgagh_Detector
+# Dastgah_Detector
 
 " Several Deep learning models are implemented to classify persian modal music into seven high correlated categories.<br/><br/>
 
